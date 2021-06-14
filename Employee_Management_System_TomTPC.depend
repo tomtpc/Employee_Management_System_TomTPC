@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1622484548 source:d:\codeblocks\employee_management_system_tomtpc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
